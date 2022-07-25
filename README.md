@@ -1,3 +1,11 @@
+# 작업내용 링크
+[미션 작업 내용 데모 링크](https://wondonghwi.github.io/nextstep-js-calculator/) 
+
+[미션 작업 내용 PR 코드리뷰 링크](https://github.com/next-step/js-calculator/pull/123)
+
+
+# 넥스트스텝 1단계 미션
+
 <br/>
 <br/>
 
@@ -51,11 +59,6 @@
 
 ## 👏 Contributing
 만약 미션 수행 중에 개선사항이 보인다면, 언제든 자유롭게 PR을 보내주세요. 
-
-<br/>
-
-## 🐞 Bug Report
-버그를 발견한다면, [Issues](https://github.com/next-step/js-calculator/issues) 에 등록 후 @eastjun에게 dm을 보내주세요.
 
 <br/>
 
