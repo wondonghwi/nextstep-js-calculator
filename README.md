@@ -1,11 +1,10 @@
 # 작업내용 링크
-[미션 작업 내용 데모 링크](https://wondonghwi.github.io/nextstep-js-calculator/) 
-
-[미션 작업 내용 PR 코드리뷰 링크](https://github.com/next-step/js-calculator/pull/123)
+- [미션 작업 내용 데모 링크](https://wondonghwi.github.io/nextstep-js-calculator/)
+- [미션 작업 내용 PR 코드리뷰 링크](https://github.com/next-step/js-calculator/pull/123)
 
 > vanila javascript로 작업, Cypress로 E2E Test 진행
 
-# 넥스트스텝 1단계 미션
+# 넥스트스텝 1단계 1차 미션
 
 <br/>
 <br/>
@@ -13,7 +12,7 @@
 <p align="middle" >
   <img width="100px;" src="src/images/calculator_icon.png"/>
 </p>
-<h2 align="middle">level1 - 자바스크립트 계산기</h2>
+<h2 align="middle">자바스크립트 계산기 / 원동휘</h2>
 <p align="middle">자바스크립트 계산기로 익혀보는 Cypress</p>
 <p align="middle">
   <img src="https://img.shields.io/badge/version-1.0.0-blue?style=flat-square" alt="template version"/>
@@ -26,10 +25,6 @@
 ## 🔥 Projects!
 <p align="middle">
   <img width="300" src="src/images/calculator_ui.png">
-</p>
-
-<p align="middle">
-  <a href="https://next-step.github.io/js-calculator/">🖥️ 데모 링크</a>
 </p>
 
 # 🎯 테스트 작성 목표
@@ -51,17 +46,7 @@
 
 **기능 요구사항에 제시된 7개의 항목에 대해 테스트 케이스를 만든다.**
 
-<br/>
 
-## 📄 참고 사항
-* 숫자 입력은 **클릭**으로만 가능하다.
-
-<br/>
-
-## 👏 Contributing
-만약 미션 수행 중에 개선사항이 보인다면, 언제든 자유롭게 PR을 보내주세요. 
-
-<br/>
 
 ## 📝 License
 This project is [MIT](https://github.com/next-step/js-calculator/blob/master/LICENSE) licensed.
