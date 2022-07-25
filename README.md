@@ -3,6 +3,7 @@
 
 [미션 작업 내용 PR 코드리뷰 링크](https://github.com/next-step/js-calculator/pull/123)
 
+> vanila javascript로 작업, Cypress로 E2E Test 진행
 
 # 넥스트스텝 1단계 미션
 
