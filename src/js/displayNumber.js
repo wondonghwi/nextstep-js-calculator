@@ -7,10 +7,13 @@ import checkNotNumber from './regex.js';
 
 const displayNumber = (number, input) => {
   const result = input.concat(number);
+
   const numberLengthList = result
     .split(checkNotNumber)
     .map((num) => num.length);
+
   const findOperatorText = String(result.match(checkNotNumber));
+
   const noAlertCondition =
     EXCEPT_EQUAL_OPERATORS_ARRAY.includes(findOperatorText);
 
