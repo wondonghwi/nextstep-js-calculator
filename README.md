@@ -1,8 +1,9 @@
 # 작업내용 링크
+
 - [미션 작업 내용 데모 링크](https://wondonghwi.github.io/nextstep-js-calculator/)
 - [미션 작업 내용 PR 코드리뷰 링크](https://github.com/next-step/js-calculator/pull/123)
 
-> vanila javascript로 작업, Cypress로 E2E Test 진행
+> Vanilla javascript로 작업, Cypress로 E2E Test 진행
 
 # 넥스트스텝 1단계 1차 미션
 
@@ -28,7 +29,7 @@
 </p>
 
 # 🎯 테스트 작성 목표
-- [ ✅ ] cypress학습후 테스트 코드 작성
+- [ ✅ ] cypress학습후 E2E 테스트 코드 작성
 
 ## 🎯 기능 요구사항
 
@@ -45,8 +46,6 @@
 ## 📊 테스트 요구사항
 
 **기능 요구사항에 제시된 7개의 항목에 대해 테스트 케이스를 만든다.**
-
-
 
 ## 📝 License
 This project is [MIT](https://github.com/next-step/js-calculator/blob/master/LICENSE) licensed.
