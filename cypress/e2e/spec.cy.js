@@ -54,6 +54,7 @@ describe('Calculator', () => {
       clickDigit(2);
       clickDigit(2);
       clickDigit(2);
+      clickDigit(2);
       onOccurAlert(LENGTH_LIMIT_TEXT);
       checkTotalText('222');
     });
@@ -76,7 +77,7 @@ describe('Calculator', () => {
 
   describe('= 버튼을 누를 경우', () => {
     describe('입력값에', () => {
-      it('"0"만 존재할 경우 #title은 기존 값 "0"으로 유지된다.', () => {
+      it('"0"만 존재할 경우 alert이후 #title은 기존 값 "0"으로 유지된다.', () => {
         clickOperator(equal);
         checkTotalText('0');
       });
